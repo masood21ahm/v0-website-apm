@@ -1,0 +1,33 @@
+import type React from "react"
+import type { Metadata } from "next"
+import { GeistSans } from "geist/font/sans"
+import { GeistMono } from "geist/font/mono"
+import "./globals.css"
+
+export const metadata: Metadata = {
+  title: "APM Career - Associate Product Manager Jobs & Reviews",
+  description:
+    "The premier platform for APM career development. Find associate product manager jobs, company reviews, salary data, and interview preparation resources.",
+  generator: "v0.app",
+}
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode
+}>) {
+  return (
+    <html lang="en">
+      <head>
+        <style>{`
+html {
+  font-family: ${GeistSans.style.fontFamily};
+  --font-sans: ${GeistSans.variable};
+  --font-mono: ${GeistMono.variable};
+}
+        `}</style>
+      </head>
+      <body className="bg-white">{children}</body>
+    </html>
+  )
+}

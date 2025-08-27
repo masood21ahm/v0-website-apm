@@ -1,0 +1,258 @@
+[
+  {
+    "id": "linkedin-apm-2024",
+    "company": "LinkedIn",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg",
+    "role": "Associate Product Manager",
+    "location": "San Francisco, CA",
+    "season": "Summer 2024",
+    "status": "Open",
+    "applicationLink": "https://careers.linkedin.com/apm",
+    "createdAt": "2024-12-25T00:00:00.000Z",
+    "updatedAt": "2024-12-25T00:00:00.000Z",
+    "analytics": {
+      "views": 1247,
+      "clicks": 89
+    }
+  },
+  {
+    "id": "meta-rpm-2024",
+    "company": "Meta",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/meta.svg",
+    "role": "Rotational Product Manager Program",
+    "location": "Menlo Park, CA",
+    "season": "Fall 2024",
+    "status": "Open",
+    "applicationLink": "https://careers.meta.com/rpm",
+    "createdAt": "2024-12-20T00:00:00.000Z",
+    "updatedAt": "2024-12-20T00:00:00.000Z",
+    "analytics": {
+      "views": 2156,
+      "clicks": 134
+    }
+  },
+  {
+    "id": "oracle-upm-2026",
+    "company": "Oracle",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/oracle.svg",
+    "role": "Undergraduate Product Manager - US 2026",
+    "location": "Austin, TX",
+    "season": "Summer 2026",
+    "status": "Open",
+    "applicationLink": "https://careers.oracle.com/upm",
+    "createdAt": "2024-12-26T00:00:00.000Z",
+    "updatedAt": "2024-12-26T00:00:00.000Z",
+    "analytics": {
+      "views": 987,
+      "clicks": 67
+    }
+  },
+  {
+    "id": "databricks-apm-2024",
+    "company": "Databricks",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg",
+    "role": "Associate Product Manager",
+    "location": "San Francisco, CA",
+    "season": "Summer 2024",
+    "status": "Yet to Open",
+    "applicationLink": "https://careers.databricks.com/apm",
+    "createdAt": "2024-12-20T00:00:00.000Z",
+    "updatedAt": "2024-12-20T00:00:00.000Z",
+    "analytics": {
+      "views": 543,
+      "clicks": 23
+    }
+  },
+  {
+    "id": "tata-apm-gaming-2024",
+    "company": "Tata",
+    "companyLogo": "https://logos-world.net/wp-content/uploads/2020/09/Tata-Logo.png",
+    "role": "Associate Product Manager - Gaming",
+    "location": "Mumbai, India",
+    "season": "Fall 2024",
+    "status": "Open",
+    "applicationLink": "https://careers.tata.com/apm-gaming",
+    "createdAt": "2024-12-24T00:00:00.000Z",
+    "updatedAt": "2024-12-24T00:00:00.000Z",
+    "analytics": {
+      "views": 876,
+      "clicks": 45
+    }
+  },
+  {
+    "id": "rippling-apm-2024",
+    "company": "Rippling",
+    "companyLogo": "https://logo.clearbit.com/rippling.com",
+    "role": "Associate Product Manager",
+    "location": "San Francisco, CA",
+    "season": "Summer 2024",
+    "status": "Open",
+    "applicationLink": "https://careers.rippling.com/apm",
+    "createdAt": "2024-12-23T00:00:00.000Z",
+    "updatedAt": "2024-12-23T00:00:00.000Z",
+    "analytics": {
+      "views": 654,
+      "clicks": 38
+    }
+  },
+  {
+    "id": "pinterest-apm-2024",
+    "company": "Pinterest",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pinterest.svg",
+    "role": "Apprentice Product Manager Program",
+    "location": "San Francisco, CA",
+    "season": "Summer 2024",
+    "status": "Open",
+    "applicationLink": "https://careers.pinterest.com/apm",
+    "createdAt": "2024-12-21T00:00:00.000Z",
+    "updatedAt": "2024-12-21T00:00:00.000Z",
+    "analytics": {
+      "views": 1432,
+      "clicks": 92
+    }
+  },
+  {
+    "id": "starbucks-apm-2024",
+    "company": "Starbucks",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/starbucks.svg",
+    "role": "Associate Product Manager - New York",
+    "location": "New York, NY",
+    "season": "Fall 2024",
+    "status": "Closed",
+    "applicationLink": "https://careers.starbucks.com/apm",
+    "createdAt": "2024-12-15T00:00:00.000Z",
+    "updatedAt": "2024-12-15T00:00:00.000Z",
+    "analytics": {
+      "views": 2341,
+      "clicks": 156
+    }
+  },
+  {
+    "id": "salesforce-apm-2026",
+    "company": "Salesforce",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/salesforce.svg",
+    "role": "Associate Product Manager (Marketing summer 2026)",
+    "location": "San Francisco, CA",
+    "season": "Summer 2026",
+    "status": "Yet to Open",
+    "applicationLink": "https://careers.salesforce.com/apm",
+    "createdAt": "2024-12-19T00:00:00.000Z",
+    "updatedAt": "2024-12-19T00:00:00.000Z",
+    "analytics": {
+      "views": 1876,
+      "clicks": 78
+    }
+  },
+  {
+    "id": "personio-apm-2024",
+    "company": "Personio",
+    "companyLogo": "https://logo.clearbit.com/personio.com",
+    "role": "Associate Product Manager - San Francisco",
+    "location": "San Francisco, CA",
+    "season": "Summer 2024",
+    "status": "Open",
+    "applicationLink": "https://careers.personio.com/apm",
+    "createdAt": "2024-12-25T00:00:00.000Z",
+    "updatedAt": "2024-12-25T00:00:00.000Z",
+    "analytics": {
+      "views": 432,
+      "clicks": 29
+    }
+  },
+  {
+    "id": "capitalone-pdp-2026",
+    "company": "Capital One",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/capitalone.svg",
+    "role": "Product Development Program Associate - 2026",
+    "location": "McLean, VA",
+    "season": "Summer 2026",
+    "status": "Closed",
+    "applicationLink": "https://careers.capitalone.com/pdp",
+    "createdAt": "2024-12-12T00:00:00.000Z",
+    "updatedAt": "2024-12-12T00:00:00.000Z",
+    "analytics": {
+      "views": 3245,
+      "clicks": 234
+    }
+  },
+  {
+    "id": "spotify-jpm-2024",
+    "company": "Spotify",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spotify.svg",
+    "role": "Junior Product Manager",
+    "location": "New York, NY",
+    "season": "Fall 2024",
+    "status": "Open",
+    "applicationLink": "https://careers.spotify.com/jpm",
+    "createdAt": "2024-12-26T00:00:00.000Z",
+    "updatedAt": "2024-12-26T00:00:00.000Z",
+    "analytics": {
+      "views": 1987,
+      "clicks": 123
+    }
+  },
+  {
+    "id": "coinbase-apm-2024",
+    "company": "Coinbase",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/coinbase.svg",
+    "role": "Associate Product Manager at Coinbase (Toronto)",
+    "location": "Toronto, Canada",
+    "season": "Fall 2024",
+    "status": "Closed",
+    "applicationLink": "https://careers.coinbase.com/apm",
+    "createdAt": "2024-12-09T00:00:00.000Z",
+    "updatedAt": "2024-12-09T00:00:00.000Z",
+    "analytics": {
+      "views": 1654,
+      "clicks": 87
+    }
+  },
+  {
+    "id": "asana-pm-2025",
+    "company": "Asana",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/asana.svg",
+    "role": "Product Manager (2025 Graduates)",
+    "location": "San Francisco, CA",
+    "season": "Summer 2025",
+    "status": "Closed",
+    "applicationLink": "https://careers.asana.com/pm",
+    "createdAt": "2024-12-05T00:00:00.000Z",
+    "updatedAt": "2024-12-05T00:00:00.000Z",
+    "analytics": {
+      "views": 2876,
+      "clicks": 198
+    }
+  },
+  {
+    "id": "tiktok-pm-grad-2024",
+    "company": "TikTok",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg",
+    "role": "Product Manager Graduate",
+    "location": "Los Angeles, CA",
+    "season": "Fall 2024",
+    "status": "Closed",
+    "applicationLink": "https://careers.tiktok.com/pm-grad",
+    "createdAt": "2024-12-02T00:00:00.000Z",
+    "updatedAt": "2024-12-02T00:00:00.000Z",
+    "analytics": {
+      "views": 4321,
+      "clicks": 287
+    }
+  },
+  {
+    "id": "google-apm-2024",
+    "company": "Google",
+    "companyLogo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/google.svg",
+    "role": "Google Associate Product Manager Program",
+    "location": "Mountain View, CA",
+    "season": "Summer 2024",
+    "status": "Closed",
+    "applicationLink": "https://careers.google.com/apm",
+    "createdAt": "2024-11-27T00:00:00.000Z",
+    "updatedAt": "2024-11-27T00:00:00.000Z",
+    "analytics": {
+      "views": 8765,
+      "clicks": 543
+    }
+  }
+]
