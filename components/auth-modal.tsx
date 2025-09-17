@@ -42,7 +42,7 @@ export function AuthModal({ isOpen, onClose, mode, onModeChange }: AuthModalProp
         <form onSubmit={handleSubmit} className="space-y-4">
           {mode === "signup" && (
             <div className="space-y-2">
-              <Label htmlFor="name">Full Name</Label>
+              <Label htmlFor="name">Full Name Bataiye</Label>
               <Input
                 id="name"
                 type="text"
